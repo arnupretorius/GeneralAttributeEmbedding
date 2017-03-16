@@ -1,3 +1,3 @@
-# GeneralAttributeEmbedding
+# General Attribute Embedding
 
-A repository for storing learned attribute embedding for movies.
+This repository contains attribute embeddings learned for movies and demonstrated in a blog post at [praelexis.com](http://praelexis.com/).
