@@ -1,3 +1,3 @@
 # General Attribute Embedding
 
-This repository contains attribute embeddings learned for movies and demonstrated in a blog post at [praelexis.com](http://praelexis.com/).
+This repository contains attribute embeddings learned for movies as presented in a blog post at [praelexis.com](http://praelexis.com/).
